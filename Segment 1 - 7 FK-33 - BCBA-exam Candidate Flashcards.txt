@@ -1,0 +1,14 @@
+[qdeck]
+
+FK-33 Functional relations
+
+SAFMED = Say All Fast, Minute Each Day
+[start]
+
+[q] Define functional relation according to Johnston & Pennypacker, 2009, p. 358.
+[a] “An experimentally determined relation that shows that the dependent variable depends on or is a function of the independent variable and nothing else”(Johnston & Pennypacker, 2009, p. 358).[q] Define functional relation according to Skinner, 1953, p.23.
+[a] “A ‘cause’ becomes a ‘change in an independent variable’ and an ‘effect’ a ‘change in a dependent variable.’ The old ‘cause-and-effect connection’ becomes a ‘functional relation.’ The new terms do not suggest how a cause causes its effect; they merely assert that different events tend to occur together in a certain order” (Skinner, 1953, p.23).[q] Define functional relation according to Cooper, Heron, & Heward, 2007.
+[a] For every response are a number of factors that influence the likelihood that it occurs. Each one of these factors can be used as an independent measure in an experiment. If an experiment shows that there is a different between a context in which this variable is present vs when this variable is absent, we consider it to be a functional relation (Cooper, Heron, & Heward, 2007).
+
+  
+[/qdeck]

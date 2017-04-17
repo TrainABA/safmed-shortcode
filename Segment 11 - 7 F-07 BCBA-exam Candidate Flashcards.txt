@@ -1,0 +1,8 @@
+[qdeck]
+
+F-07 Use functional communication training[start]
+
+[q]Define FCT
+[a]Functional communication training (FCT) - “…an application of differential reinforcement of alternative behaviors (DRA) because the intervention develops an alternative communicative response as an antecedent to diminish the problem behavior” (Fisher, Kuhn, & Thompson, 1998, p. 543).
+
+[/qdeck]

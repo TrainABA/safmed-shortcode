@@ -1,0 +1,14 @@
+[qdeck]
+
+FK-30 Distinguish between motivating operation and reinforcement effects.[start][q]Define MO
+[a]Motivating operation - “An environmental variable that (a) alters (increases or decreases) the reinforcing or punishing effectiveness of some stimulus, object, or event; and (b) alters (increases or decreases) the current frequency of all behavior that has been reinforced or punished by that stimulus, object, or event” (Cooper et al., 2007, p. 699).
+[q]Briefly explain the difference between MOs and reinforcement effects
+[a] MOs are antecedent variables that have behavior-altering effects in that they alter the current frequency of relevant behaviors whereas the process of reinforcement is a consequence-based process (as is extinction and punishment) said to have repertoire-altering effects in that the future frequency of the behavior that preceded the consequence is altered (Cooper, Heron, & Heward, 2007).
+ 
+[q]Describe the value-altering effect 
+[a]The value-altering effect is either (a) an increase in the reinforcing effectiveness of some stimulus, object, or event, in which case the MO is an establishing operation (EO); or (b) a decrease in reinforcing effectiveness, in which case the MO is an abolishing operation (AO).  
+
+[q]Describe the behavior-altering effect
+[a]The behavior-altering effect is either (a) an increase in the current frequency of behavior that has been reinforced by some stimulus, object, or event, called an evocative effect; or (b) a decrease in the current frequency of behavior that has been reinforced by some stimulus, object, or event, called an abative effect (p. 375).
+
+[/qdeck]

@@ -1,0 +1,11 @@
+[qdeck]
+
+FK-18 Conditioned reinforcement
+
+[start][q]Define conditioned reinforcer
+[a]Conditioned reinforcer - “A stimulus change that functions as a reinforcer because of prior pairing with one or more other reinforcers; sometimes called secondary or learned reinforcers” (Cooper et al., 2007, p. 692). 
+
+[q]Define conditioned reinforcement
+[a]Conditioned reinforcement – “the operation, or process, of a response producing a conditioned reinforcer that increases the likelihood that response occurs in the future” (Cooper et al., 2007, p. 40).
+[/qdeck]
+

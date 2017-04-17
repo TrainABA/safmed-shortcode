@@ -1,0 +1,10 @@
+[qdeck]
+
+A-09 Evaluate the accuracy and reliability of measurement procedures
+
+[start]
+
+[q]Definition Reliability of measurement 
+[a]Evaluating the accuracy and reliability of measurement procedures involves “measuring the measurement system” (Cooper, Heron, & Heward, 2007, p. 110).
+
+[/qdeck]

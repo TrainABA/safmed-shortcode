@@ -1,0 +1,8 @@
+[qdeck]
+FK-14 Respondent Conditioning (CS-CR)
+[start]
+
+[q]Define reflex
+[a]Reflex - “The reliable production of a response by a stimulus” (Catania, 1998, p. 8).[q]Define respondent behavior
+[a]Respondent behavior - “behavior that is elicited by antecedent stimuli. Respondent behavior is induced, or brought out, by a stimulus that precedes the behavior; nothing else is required for the response to occur” (Cooper et al., 2007, p. 29).[/qdeck]
+

@@ -1,0 +1,12 @@
+Flashcard I-01 intentionally omitted.
+
+ 
+[qdeck]
+
+A-08 Assess and Interpret Interobserver Agreement
+
+[start]
+[q]Define IOA
+[a]Interobserver agreement (IOA) –  “…refers to the degree to which two or more independent observers report the same observed values after measuring the same event” (Cooper, Heron, & Heward, 2007, p. 113).
+
+[/qdeck]

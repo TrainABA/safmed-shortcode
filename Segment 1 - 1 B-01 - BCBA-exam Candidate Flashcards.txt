@@ -1,0 +1,67 @@
+[qdeck]
+
+Welcome to this set of flashcards. It is for Segment 1 of TrainABA Supervision Curriculum Volume 2: BCBA Independent Fieldwork.” Please use this tool as often as possible to promote skill acquisition. (Supervisors: use as a warm-up game at supervision meetings) Here’s how it works:
+
+Click ‘Check answer’ to see the answer to each card.
+If you don’t know it as well as you’d like to, click ‘Need more practice,’ and that card will go to the bottom of the stack so you can practice it again.
+If you know it, click ‘Got it.’
+‘Shuffle’ lets you shuffle the deck.
+V1.0.0 July 11, 2016
+[start]
+
+[!]B-01[/!]
+
+[q]Baer, Wolf, and Risley (1968) recommended that applied behavior analysis should satisfy which 7 dimensions?
+
+[a] Answer: “applied, behavioral, analytic, technological, conceptually systematic, effective, and capable of appropriately generalized outcomes.” (Baer, et al., cited in Cooper et al., 2007, p. 16).
+
+
+
+[q] In 1987 Baer and colleagues revisited the “seven self-conscious guides to behavior analytic conduct” they had offered 20 years earlier. What did they conclude? (Baer, et al., cited in Cooper et al., 2007, p. 16).
+
+[a] Answer: The seven “remain functional; they still connote the current dimensions of the work usually called applied behavior analysis.”
+
+
+
+[q] This dimension relates to choosing target behaviors to change that are socially significant. 
+
+[a] Answer: Applied
+
+
+
+[q] This dimension refers to the target behavior being systematically chosen for intervention based on its significance and this behavior must be measurable.  Baer et al. (1968, p. 93) summarized this point by stating, “Since the behavior of an individual is composed of physical events, its scientific study requires their precise measure.” 
+
+[a] Answer: Behavior 
+
+
+
+[q] This dimension refers to “… a functional relation between the manipulated events and a reliable change in some measurable dimension of the targeted behavior” (Cooper et al. 2007, p. 17). Baer et al. (1968, p. 94) stated that, “An experimenter has achieved an analysis of behavior when he can exercise control over it.”
+
+[a] Answer: Analytic
+
+
+
+[q] This dimension refers to all of “operative procedures identified and described with sufficient detail and clarity” (Cooper et al., 2007, p. 17). 
+
+[a] Answer: Technological
+
+
+
+[q] This dimension refers to the application of behavior analytic principles to create behavior change. “The field of applied behavior analysis will probably advance best if the published descriptions of its procedures are not only precisely technological, but also strive for relevance to principle” (Baer et. al. 1968, p. 96).
+
+[a] Answer: Conceptually systematic
+
+
+
+[q] This dimension refers to an ”…application of behavioral techniques (that) must improve the behavior under investigation to a practical degree” (Cooper et al., 2007, p. 17).
+
+[a] Answer: Effective
+
+
+
+[q] This dimension of applied behavior analysis refers to “A behavior change has generality if it lasts over time, appears in environments other than the one in which the intervention that initially produced it was implemented, and/or spreads to other behaviors not directly treated by the intervention.” (Cooper et al., 2007, p. 18)
+
+[a]Answer: Generality
+
+
+[/qdeck]

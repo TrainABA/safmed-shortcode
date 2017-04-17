@@ -1,0 +1,9 @@
+[qdeck]
+
+A-05 Measure Interresponse Time (IRT)
+[start]
+[q]Define interresponse time
+[a]Interresponse time (IRT) - “…the elapsed time between two successive responses” (Cooper, Heron, & Heward, 2007, p. 80).
+
+
+[/qdeck]

@@ -1,0 +1,7 @@
+[qdeck]
+FK-13 Reflexive relations (US-UR)
+[start]
+
+[q]Define reflexive relations (US-UR)
+[a]Unconditioned stimulus (US) - is a “stimulus change that elicits respondent behavior (i.e., unconditioned response) in the absence of prior learning.  The UR is typically regarded as a built-in bodily mechanism that exists through natural evolution” (Cooper, Heron, & Heward, 2007, pp. 30, 39).   The US-UR relation is an unconditioned reflex.[/qdeck]
+

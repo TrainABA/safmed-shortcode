@@ -1,0 +1,12 @@
+
+
+[qdeck]
+
+D-05: Use shaping.[start]
+[q]Define prompts
+[a]Prompts – “…antecedent stimuli that increase the probability of a desired response” (Piazza, & Roane, 2014, p. 256).[q]Define prompt fading
+[a]Prompt fading – “…transfer stimulus control from therapist delivered prompts to stimuli in the natural environment that should evoke appropriate responses” (Walker, 2008 cited in Fisher, Piazza, & Roane, 2014, p. 412).[q]Define stimulus prompts[a]Stimulus prompts – “…those in which some property of the criterion stimulus is altered, or other stimuli are added to or removed from the criterion stimulus” (Etzel & LeBlanc, 1979 cited in Fisher, Piazza, & Roane, 2014, p. 256).
+
+[q]Define response prompts[a]Response prompts – “…addition of some behavior on the part of an instructor to evoke the desired learner behavior” (Fisher, Piazza, & Roane, 2014, p. 256).
+
+[/qdeck]

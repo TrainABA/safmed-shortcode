@@ -1,0 +1,13 @@
+[qdeck]
+
+FK-03 Determinism
+
+[start]
+
+
+[q]Define determinism (Cooper, Heron, & Heward, 2007, p.5).
+[a] Determinism is the assumption that “the universe is a lawful and orderly place in which all phenomena occur as the result of other events” (Cooper, Heron, & Heward, 2007, p.5).[q]Define determinism (Fisher, Piazza, & Roane, 2011, p. 9). 
+[a]The implication here is that events don’t just occur by accident; they occur as the result of something else happening. This is an important attitude of science because if the behavior of organisms was not orderly or lawful, scientists would be unable to identify why a behavior was occurring and therefore modify it. (Fisher, Piazza, & Roane, 2011, p. 9) 
+
+
+[/qdeck] 

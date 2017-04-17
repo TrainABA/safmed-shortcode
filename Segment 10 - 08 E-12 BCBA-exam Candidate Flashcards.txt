@@ -1,0 +1,8 @@
+[qdeck]
+
+E-12 Use Errorless Learning Procedures
+[start]
+[q]Define errorless learning
+[a]Errorless learning - an “approach whereby the task is manipulated to eliminate/reduce errors. Tasks are executed in such a way that the subject is unlikely to make errors” (Fillingham, Hodgson, Sage, & Ralph, 2003, p. 339). 
+
+[/qdeck]

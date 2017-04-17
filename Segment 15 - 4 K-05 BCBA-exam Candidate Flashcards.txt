@@ -1,0 +1,14 @@
+[qdeck]
+
+K-05 Design and use systems for monitoring procedural integrity
+
+[start]
+
+[q]Define procedural integrity
+[a]Procedural Integrity - "The extent to which the independent variable is applied exactly as planned and described and no other unplanned variables are administered inadvertently along with the planned treatment" (Cooper Heron, & Heward, 2007, pp. 706-707).
+
+[q]Define treatment drift
+[a]Treatment Drift - "An undesirable situation in which the independent variable of an experiment is applied differently during later stages than it was at the outset of the study" (Cooper Heron, & Heward, 2007, p. 706).
+
+
+[/qdeck]

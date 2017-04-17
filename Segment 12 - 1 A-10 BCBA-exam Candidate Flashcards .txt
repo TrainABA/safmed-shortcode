@@ -1,0 +1,11 @@
+Flashcard A-10 omitted intentionally.
+
+[qdeck]
+
+
+J-10 When a behavior is to be decreased, select an acceptable alternative behavior to be established or increased. 
+
+[start][q]Define DRA
+[a]Differential reinforcement of alternative behavior (DRA) -  “a procedure for decreasing problem behavior in which reinforcement is delivered for a behavior that serves as desirable alternative to the behavior targeted for reduction and withheld following instances of the problem behavior” (Cooper, Heron & Heward, 2007, p. 693).  
+
+[/qdeck]

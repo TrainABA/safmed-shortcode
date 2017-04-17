@@ -1,0 +1,18 @@
+[qdeck]
+
+FK-08 Distinguish between radical and methodological behaviorism
+
+SAFMED = Say All Fast, Minute Each Day
+[start]
+
+
+[q]Define radical behaviorism (Skinner, 1989, p. 122).
+
+[a] “The philosophy of a science of behavior treated as a subject matter in its own right apart from internal explanations, mental or physiological” (Skinner, 1989, p. 122).
+
+[q]Define Methodological behaviorism (Moore, 2008, p. 385).
+
+[a] “Methodological behaviorism represents a formal and strategic agreement to regard the relation between publicly observable stimulus variables and publicly observable behavior as the appropriate subject matter for psychology as a science” (Moore, 2008, p. 385).
+
+
+[/qdeck]

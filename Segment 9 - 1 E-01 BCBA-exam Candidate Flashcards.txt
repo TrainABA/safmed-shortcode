@@ -1,0 +1,11 @@
+Flashcard E-01 intentionally omitted.
+[qdeck]
+
+E-01: Use interventions based on manipulation of antecedents, such as motivating operations and discriminative stimuli.
+
+[start]
+[q] Define “heredity.”
+
+[a] The passing of traits from parent to offspring.
+
+[/qdeck]

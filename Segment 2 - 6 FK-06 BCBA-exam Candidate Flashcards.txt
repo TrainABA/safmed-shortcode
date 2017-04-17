@@ -1,0 +1,14 @@
+[qdeck]
+
+FK-06 Pragmatism
+
+
+[start]
+[q]Define pragmatism (Merriam-Webster.com, 2015)
+[a] “a reasonable and logical way of doing things or of thinking about problems that is based on dealing with specific situations instead of on ideas and theories” (Merriam-Webster.com, 2015).
+
+[q]What did Cooper et al (2007) say about pragmatism?
+[a]“Classroom teachers, parents, coaches, workplace supervisors, and sometimes the participants themselves implemented the interventions found effective in many ABA studies. This demonstrates the pragmatic element of ABA. Although doing ABA requires far more than learning to administer a few simple procedures, it is not prohibitively complicated or arduous.” (Cooper et al., 2007, p. 19). 
+
+
+[/qdeck]

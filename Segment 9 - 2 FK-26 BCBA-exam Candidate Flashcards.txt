@@ -1,0 +1,11 @@
+[qdeck]
+
+FK-26 Unconditioned motivating operations
+
+
+[start]
+[q]Define unconditioned motivating operations
+[a]Unconditioned motivating operations - “…events, operations, and stimulus conditions with value-altering motivating effects that are unlearned” (Michael, as cited in Cooper, Heron, & Heward, 2007, p. 377).
+
+
+[/qdeck]

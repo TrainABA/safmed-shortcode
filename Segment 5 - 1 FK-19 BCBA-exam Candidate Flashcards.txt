@@ -1,0 +1,8 @@
+[qdeck]
+(Note: E-11 is included in Segment 5 and was inadvertently omitted from the Scorecard or meeting agendas (pg. 87-89). TrainABA does not SAFMED for E-11 at this time.)FK-19 Unconditioned Punishment[start]
+[q]Define unconditioned punisher
+[a]Unconditioned punisher – “A stimulus change that decreases the frequency of any behavior that immediately precedes it irrespective of the organism’s learning history with the stimulus” (Cooper, Heron, & Heward, 2007, p. 707).
+[/qdeck]
+
+
+

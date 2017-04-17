@@ -1,0 +1,13 @@
+[qdeck]
+
+F-04 Use precision teaching
+
+[start]
+
+[q]State the four steps of the precision teaching process
+[a]1. Pinpoint - means to describe an actual movement which a learner needs to perform in a specific time interval to show an improvement on learning behavior.
+2. Record - means that a learner or a teacher collect data on pinpointed behavior regularly and display these data graphically using the Standard Celeration Chart (the SCC). 
+3. Change - means that the teacher analyzes the data using guidelines of analyzing the SCC (Graf & Lindsley, 2002) and quickly makes changes in a current instructional method if needed. 
+4. Try Again - means that the teacher keeps exploring the best instructional methods for those learners who need more help and provides the learners with the opportunities to practice until the mastery level. 
+
+[/qdeck]

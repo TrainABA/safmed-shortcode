@@ -1,0 +1,13 @@
+[qdeck]
+
+FK-29 Distinguish between the discriminative stimulus and the motivating operation
+
+[start]
+[q]Define SD 
+[a]Discriminative stimulus (SD) - “A stimulus in the presence of which responses of some type have been reinforced and in the absence of which the same type of responses have occurred and not been reinforced; this history of differential reinforcement is the reason an SD increases the momentary frequency of the behavior” (Cooper, Heron, & Heward, 2007, p. 694).
+
+[q]Define MO
+[a]Motivating operation - “An environmental variable that (a) alters (increases or decreases) the reinforcing or punishing effectiveness of some stimulus, object, or event; and (b) alters (increases or decreases) the current frequency of all behavior that has been reinforced or punished by that stimulus, object, or event” (Cooper et al., 2007, p. 699).
+
+
+[/qdeck]

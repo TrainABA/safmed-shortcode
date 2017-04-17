@@ -1,0 +1,14 @@
+D-15 flashcard intentionally omitted
+
+[qdeck]
+FK-20 Conditioned Punishment[start]
+
+[q]Define conditioned punisher 
+[a]Conditioned punisher – “a stimulus that functions as a punisher as the result of being paired with unconditioned or conditioned punishers” (Cooper, Heron, & Heward, 2007, p. 40).
+
+[q]Define conditioned punishment
+[a]Conditioned punishment as defined by Hake and Azrin (1965) is a process that “results when it can be shown (1) there is little or no punishment effect before the stimulus is paired with an unconditioned punisher, but (2) a punishment effect occurs after (3) the stimulus has been paired, or is being paired, with an unconditioned punisher” (p. 279).  
+[/qdeck]
+
+
+

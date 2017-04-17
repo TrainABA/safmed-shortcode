@@ -1,0 +1,8 @@
+[qdeck]
+A-01 Measure Frequency
+
+[start]
+[q]Define frequency
+[a]Frequency - “A ratio of count per observation time; often expressed as count per standard unit of time and calculated by dividing the number of responses recorded by the number of standard units of time in which observations were conducted (Cooper, Heron, & Heward, 2007, p. 85)”
+
+[/qdeck]

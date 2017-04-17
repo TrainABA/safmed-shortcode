@@ -1,0 +1,10 @@
+[qdeck]
+
+A-04 Measure Latency
+
+[start]
+[q]Define latency
+[a]Latency - “A measure of temporal locus; the elapsed time from the onset of a stimulus (e.g., task direction, cue) to the initiation of a response” (Cooper, Heron, & Heward, 2007, p. 80).  
+
+
+[/qdeck]

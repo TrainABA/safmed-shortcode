@@ -1,0 +1,15 @@
+[qdeck]
+
+D-21: Use differential reinforcement (e.g., DRO, DRA, DRI, DRL, DRH)
+
+[start][q]Define Differential Reinforcement
+[a]“Reinforcing only those responses within a response class that meet a specific criterion along some dimension(s) (i.e., frequency, topography, duration, latency or magnitude) and placing all other behaviors in the class on extinction” (Cooper, Heron, & Heward, 2007, p. 693). 
+[q]Define DRO
+[a]Differential reinforcement of other behavior (DRO) is a procedure that provides reinforcement for the absence of problem behavior during a period of time (interval) or at a specific time (momentary) (Cooper, Heron, & Heward, 2007).[q]Define DRA[a]Differential reinforcement of alternative behavior (DRA) is the reinforcement of a response that is an appropriate alternative to problem behavior (Cooper, Heron, & Heward, 2007).[q]Define DRI
+[a]Differential reinforcement of incompatible behavior (DRI) is the reinforcement of a response that is physically incompatible with the target problem behavior (Cooper, Heron, & Heward, 2007). [q]Define DRH
+[a]Differential reinforcement of high rates (DRH) is reinforcement contingent upon a behavior occurring at a set high rate used to increase the overall rate of a behavior (Cooper, Heron, & Heward, 2007).[q]Define DRL
+[a]Differential reinforcement of low rates of behavior (DRL) is reinforcement contingent upon behavior occurring at a set reduced rate used to decrease the overall rate of a behavior but not to eliminate it completely (Cooper, Heron, & Heward, 2007).
+
+
+[/qdeck]
+

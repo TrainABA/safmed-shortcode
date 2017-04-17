@@ -1,0 +1,19 @@
+[qdeck]
+
+FK-28 Transitive, reflexive, surrogate motivating operations
+
+[start]
+
+[q]Define CMO
+[a]“…motivating variables that alter the reinforcing effectiveness of other stimuli, objects, or events, but only as a result of an organism’s learning history…” (Cooper, Heron, & Heward, 2007, p. 384)
+
+[q]Define CMO-R
+[a]“Any stimulus that systematically precedes the onset of painful stimulation becomes a CMO-R (reflexive- CMO), in that its occurrence will evoke any behavior that has been followed by such reinforcement” (Cooper et al., 2007, p. 385).
+
+[q]Define CMO-T
+[a]“When an environmental variable is related to the relation between another stimulus and some form of improvement, the presence of that variable functions as a transitive CMO, or CMO-T, to establish the second condition’s reinforcing effectiveness and to evoke the behavior that has been followed by that reinforcer” (Cooper et al., 2007, p. 387).
+
+[q]Define CMO-S
+[a]Surrogate CMO’s are stimuli that have been paired with another motivating operation and “acquired a form of behavioral effectiveness by being paired with a behaviorally effective stimulus” (Cooper et al., 2007, p. 384).
+
+[/qdeck]

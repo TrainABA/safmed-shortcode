@@ -1,0 +1,13 @@
+[qdeck]
+
+FK-10 Behavior, response, response class
+
+SAFMED = Say All Fast, Minute Each Day
+[start]
+
+[q] Define behavior
+[a] “The activity of living organisms; human behavior includes everything that people do” (Cooper, Heron, & Heward, 2007, p. 25).[q] Define response
+[a] A single instance or occurrence of a specific class or type of behavior” (Cooper, Heron, & Heward, 2007, p. 703).  [q] Define response class
+[a] “A group of responses of varying topography, all of which produce the same effect on the environment” (Cooper, Heron, & Heward, 2007, p. 703).  
+
+[/qdeck]

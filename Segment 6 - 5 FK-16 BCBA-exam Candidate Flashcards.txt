@@ -1,0 +1,7 @@
+[qdeck]
+FK-16 Respondent-operant interactions[start]
+[q]Define respondent behavior
+[a]Respondent behavior - “A response component of a reflex; behavior that is elicited, or induced, by antecedent stimuli” (Cooper, Heron, & Heward, 2007, p. 703).[q]Define operant behavior
+[a]Operant behavior – “Behavior that is selected, maintained, and brought under stimulus control as a function of its consequences” (Cooper, Heron, & Heward, 2007, p. 701).[q]State how Pierce and Cheney (2013) describe respondent-operant interactions. 
+[a]“When biologically relevant stimuli such as food are contingent on an organism’s operant behavior, species-characteristic, innate behavior is occasionally elicited at the same time. The neural capacity for operant conditioning arose on the basis of species history; organisms that changed their behavior as result of life experience had an advantage over animals that did not do so” (Pierce & Cheney, 2013, p. 194).[/qdeck]
+

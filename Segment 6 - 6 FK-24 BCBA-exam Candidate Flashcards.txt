@@ -1,0 +1,7 @@
+[qdeck]
+FK-24 Stimulus control
+[start][q]Define stimulus control
+[a]Stimulus control - "A situation in which the frequency, latency, duration, or amplitude of a behavior is altered by the presence or absence of an antecedent stimulus” (Cooper, Heron, & Heward, 2007, p. 705).[q]Define discriminated operant
+[a]Discriminated operant - "An operant that occurs more frequently under some antecedent conditions than under others” (Cooper, Heron, & Heward, 2007, p.694).[q]Define discriminated stimulus
+[a]Discriminative stimulus (SD) - "A stimulus in the presence of which responses of some type have been reinforced and in the absence of which the same type of responses have occurred and not been reinforced”  (Cooper, Heron, & Heward, 2007, p. 694).[/qdeck]
+

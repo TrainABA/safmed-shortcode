@@ -1,0 +1,13 @@
+[qdeck]
+
+D-06 Use Chaining
+
+
+[start]
+[q]Define behavior chain[a]Behavior chain - “A sequence of responses in which each response produces a stimulus change that functions as conditioned reinforcement for that response and as a discriminative stimulus for the next response in the chain (Cooper, Heron, & Heward, 2007, p. 691).
+
+[q]Describe behavior chain characteristics
+[a]Reinforcement for the last response in a chain maintains the reinforcing effectiveness of the stimulus changes produced by all previous responses in the chain” (Cooper, Heron, & Heward, 2007, p. 691).
+
+
+[/qdeck]

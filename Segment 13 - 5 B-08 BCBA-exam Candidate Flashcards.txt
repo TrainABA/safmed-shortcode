@@ -1,0 +1,11 @@
+[qdeck]
+
+B-08 Use multiple-probe designs
+
+[start]
+
+[q]Define multiple probe designs
+[a]Like multiple baseline designs (MBD), multiple probe designs (MPD) are “rigorous in their evaluation of threats to interval validity; and are practical for teachers and clinicians who want their research efforts to be wholly compatible with their instructional or therapy activities” (Gast, 2009, p. 277). 
+
+
+[/qdeck]

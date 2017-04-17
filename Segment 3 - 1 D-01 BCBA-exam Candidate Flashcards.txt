@@ -1,0 +1,14 @@
+[qdeck]
+
+D-01 Use positive and negative reinforcement
+
+[start]
+[q]Define Positive Reinforcement
+[a]Positive reinforcement has occurred when a stimulus is added to the environment, or is increased in intensity, immediately following a behavior, and this serves to increase the frequency of that behavior occurring in the future (Cooper, Heron & Heward, 2007).
+
+[q]Define Negative Reinforcement
+[a]Negative reinforcement has occurred when a stimulus is removed, or decreased in intensity, immediately following a behavior, and this increases the frequency of that behavior in the future (Cooper, Heron & Heward, 2007).
+
+[/qdeck]
+
+

@@ -1,0 +1,10 @@
+[qdeck]
+
+FK-34 Conditional discriminations[start][q]Define conditional discrimination
+[a]Conditional discrimination – “refer to a concept related to stimulus equivalence and can be created using matching-to-sample procedures.  Conditional discriminations operate within a four-term contingency that accounts for the environmental context, such that the contingency appears as the following: contextual stimulus > SD > response >  reinforcement” (Cooper, Heron, & Heward, 2007, p. 400).
+
+[q]Describe conditional relations
+[a]The contextual events operating within (the) four-term contingency (contextual stimulus > SD > response >  reinforcement) become conditional discriminations (Sidman, 1994). 
+
+
+[/qdeck]

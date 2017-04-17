@@ -1,0 +1,16 @@
+[qdeck]
+
+FK-27 Conditioned motivating operations
+[start]
+
+[q]Define surrogate CMO
+[a]Surrogate CMOs replace and have the same effect as the motivating operation that it was previously paired with.
+
+[q]Define reflexive CMO
+[a]Reflexive CMOs create a circumstance in which its own removal serves as the reinforcement.
+
+[q]Define transitive CMO
+[a]Transitive CMOs make other stimuli more effective reinforcers. 
+
+
+[/qdeck]

@@ -1,0 +1,10 @@
+[qdeck]
+
+B-07 Use multiple baseline designs
+
+[start]
+
+[q]Define multiple baseline design
+[a]Multiple baseline design – “An experimental design that begins with the concurrent measurement of two or more behaviors in a baseline condition, followed by the application of the treatment variable to one of the behaviors while baseline conditions remain in effect for the other behavior(s) After maximum change has been noted in the first behavior, the treatment variable is applied in sequential fashion to each of the other behaviors in the design” (Cooper, Heron & Heward, 2007, p. 699).
+
+[/qdeck]

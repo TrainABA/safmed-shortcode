@@ -1,0 +1,9 @@
+[qdeck]
+
+A-07 Measure Trials to Criterion
+
+[start]
+[q]Define trials to criterion
+[a]Trials to criterion - “A special form of event recording; a measure of the number of responses or practice opportunities needed for a person to achieve a pre-established level of accuracy or proficiency” (Cooper, Heron & Heward, 2007, p.  87).
+
+[/qdeck]

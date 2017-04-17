@@ -1,0 +1,13 @@
+[qdeck]
+
+
+A-13 Design and implement discontinuous measurement procedures (e.g., partial & whole interval, momentary time sampling)
+
+[start]
+
+[q]Define time sampling
+[a]Time sampling – “…refers to a variety of methods for observing and recording behavior during intervals or at specific moments in time. The basic procedure involves dividing the observation period into time intervals and then recording the presence or absence of behavior within or at the end of interval… Three forms of time sampling used often by applied behavior analysts are whole-interval recording, partial-interval recording and momentary time sampling” (Cooper, Heron, & Heward, 2007, p. 90). 
+
+[q]Define whole-Interval Recording[a]“Once the interval has ended, the observer records whether the behavior has occurred throughout the entire interval. Whole-interval recording tends to underestimate how much a behavior is occurring because the behavior has to be emitted for the entire interval in order to get recorded.” (Cooper, Heron and Heward, 2007, p. 90)[q]Partial-Interval Recording[a]“With the partial-interval recording method, the time of observation is again divided into intervals and a behavior is recorded as having occurred if it has occurred at some point during the interval. Data are usually reported as percentage of intervals.” (Cooper, Heron and Heward, 2007, p. 92)[q]Momentary Time Sampling[a]“With this type of measurement, a period of time is divided up into intervals and the observer records whether the behavior is occurring at the precise moment the interval ends.”  (Cooper, Heron and Heward, 2007, p. 93).
+
+[/qdeck]

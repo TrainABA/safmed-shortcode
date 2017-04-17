@@ -1,0 +1,12 @@
+[qdeck]
+
+FK-47 Identify measurable dimensions of behavior 
+
+[start]
+
+[q]Define repeatability
+[a]Repeatability – Refers to the fact that a behavior can occur repeatedly through time (i.e., behavior can be counted) (e.g., count, frequency, rate)[q]Define temporal event
+[a]Temporal extent – Refers to the fact that every instance of behavior occurs during some amount of time (i.e., when behavior occurs it can be measured in time.) (e.g., duration)[q]Define temporal locus
+[a]Temporal locus – Refers to the fact that every instance of behavior occurs at a certain point in time with respect to other events. (i.e., occurrences of behavior can be measured at points in time.) (e.g., latency, interresponse time) (As cited in Cooper, Heron, & Heward, 2007, p. 26)
+
+[/qdeck]

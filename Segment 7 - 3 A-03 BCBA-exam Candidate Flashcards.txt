@@ -1,0 +1,9 @@
+[qdeck]
+
+A-03 Measure Duration
+
+[start]
+[q]Define duration
+[a]Duration – “A measure of the total extent of time in which a behavior occurs” (Cooper, Heron, & Heward, 2007, p. 79).
+
+[/qdeck]

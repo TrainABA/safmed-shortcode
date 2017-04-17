@@ -1,0 +1,11 @@
+[qdeck]
+D-16 Use positive and negative punishment
+[start]
+
+[q]Define punishment
+[a]Punishment: "Occurs when stimulus change immediately follows a response and decreases the future frequency of that type of behavior in similar conditions.”  (Cooper Heron, & Heward, 2007)[q]Define positive punishment
+[a]Positive Punishment: "A behavior is followed immediately by the presentation of a stimulus that decreases the future frequency of the behavior.”  (Cooper Heron, & Heward, 2007)*[q]Define negative punishment
+[a]Negative Punishment:  "A…behavior is followed immediately by the removal of a stimulus (or a decrease in the intensity of the stimulus), that decreases the future frequency of similar responses under similar conditions." (Cooper Heron, & Heward, 2007).[/qdeck]
+
+
+

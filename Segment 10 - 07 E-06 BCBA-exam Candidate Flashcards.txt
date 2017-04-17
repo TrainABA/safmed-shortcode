@@ -1,0 +1,19 @@
+[qdeck]
+
+E-06 Use Stimulus Equivalence Procedures
+[start]
+
+[q]Define how stimulus equivalence is tested
+[a]“Behavior analysts define stimulus equivalence by testing stimulus-stimulus relations.  A positive demonstration of all three behavioral tests (i.e. reflexivity, symmetry, and transitivity) is necessary to meet the definition of an equivalence relation among a set of arbitrary stimuli.” (Cooper, Heron, & Heward, 2007). 
+
+[q]Define reflexivity
+[a]Reflexivity describes the action of selecting a stimulus that is matched to itself in the absence of training and reinforcement (A=A). (Sidman, 1994)  
+
+[q]Define symmetry
+[a]Symmetry describes the reversibility of the sample stimulus and a comparison stimulus (A=B and B=A). (Sidman, 1994)
+
+[q]Define transitivity
+[a]A third, untrained relation emerges as a result of being taught the first two relations.  (A=C and C=A) “is a product of training the other two stimulus-stimulus relations” (Cooper, Heron, & Heward, 2007).  
+
+
+[/qdeck]

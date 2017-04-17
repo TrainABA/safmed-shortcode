@@ -1,0 +1,11 @@
+[qdeck]
+
+E-02 Use discrimination training procedures
+
+[start]
+
+[q]Explain discrimination training procedures
+[a]Discrimination training procedures involve “reinforcing or punishing a response in the presence of one stimulus and extinguishing it or allowing it to recover in the presence of another stimulus” (Malott &Trojan Suarez, 2004).
+
+
+[/qdeck]

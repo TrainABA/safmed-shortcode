@@ -1,0 +1,10 @@
+[qdeck]
+
+B-05 Use alternating treatments designs
+
+[start]
+[q]Define alternating treatments design
+[a]Alternating treatments design - “An experimental design in which two or more conditions (one of which may be a no treatment control condition) are presented in rapidly alternating succession (e.g., on alternating sessions or days) independent of the level of responding; differences in responding between or among conditions are attributed to the effects of the conditions (also called concurrent schedule design, multielement design, multiple schedule design)” (Cooper, Heron, & Heward, 2007, p. 689).
+
+
+[/qdeck]

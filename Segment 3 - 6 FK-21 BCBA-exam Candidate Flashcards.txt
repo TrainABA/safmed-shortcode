@@ -1,0 +1,5 @@
+[qdeck]
+
+FK-21 Schedules of Reinforcement and Punishment  
+[start][q]Define schedule of reinforcement/punishment[a]Schedule of reinforcement/punishment – “rule that specifies the environmental arrangements and response requirements that will result in reinforcement or punishment” (Cooper, Heron & Heward, 2007, p. 703).[/qdeck]
+

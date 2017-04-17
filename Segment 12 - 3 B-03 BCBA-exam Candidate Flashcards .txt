@@ -1,0 +1,20 @@
+[qdeck]
+
+B-03 Systematically arrange independent variables to demonstrate their effects on dependent variables
+
+[start]
+
+[q]Define independent variable
+[a]Independent Variable - “The variable that is systematically manipulated by the researcher in an experiment to see whether changes in the independent variable produce reliable changes in the dependent variable. In applied behavior analysis, it is usually an environmental event or condition antecedent or consequent to the dependent variable. Sometimes called the intervention or treatment variable” (Cooper, Heron, & Heward, 2007, p. 697).
+
+[q]Define dependent variable
+[a]Dependent Variable - “The variable in an experiment measured to determine if it changes as a result of the manipulations of the independent variable; in applied behavior analysis, it represents some measure of a socially significant behavior” (Cooper et al. 2007, p. 693).
+
+[q]Define dependent variable guidelines
+[a]Dependent variables must be operationally defined to allow for consistent assessment and replication of the assessment process, measured repeatedly within and across controlled conditions, recording is assessed for consistency across the experiment using inter-observer agreement, and dependent variables must be socially significant to the individual or those around them. (Horner, Carr, Halle, McGee, Odom, & Wolery, 2005)
+
+[q]Define experimental control
+[a]Experimental control is achieved when predicted change in the dependent variable (i.e., the behavior) covaries with manipulations of the independent variable (i.e., the intervention) showing the effectiveness of the independent variable on the dependent variable of a participant. (Horner et al., 2005)
+
+
+[/qdeck]

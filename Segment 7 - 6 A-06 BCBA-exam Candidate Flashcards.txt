@@ -1,0 +1,9 @@
+[qdeck]
+
+A-06 Measure Percent of Occurrence
+
+[start]
+[q]Define percent of occurrence
+[a]Percent of occurrence - “A ratio formed by combining the same dimensional quantities such as count or time; expressed as a number of parts per 100; typically expressed as a ratio of the number of responses of a certain type per total number of responses. A percentage represents a proportional quantity per 100” (Cooper, Heron & Heward, 2007, p. 701) 
+
+[/qdeck]

@@ -1,0 +1,20 @@
+[qdeck]
+
+K-04 Design and use effective performance monitoring and reinforcement systems
+[start]
+[q]Name two procedures found by Richman, Riordan, Reiss, Pyles, and Bailey (1988) to increase staff performance.
+[a]Self-monitoring and supervision feedback increased staff performance.
+
+
+[q]List three finding of Arco (2008) that were effective at increasing and maintaining the performance in behavioral treatment programs.
+[a]1.  Defining the process before training
+2. Providing on-the job supervisory feedback
+3. Having staff provide self-generated outcome feedback before and after training was
+
+[q]Codding, Feinberg, Dunn, and Pace (2004) found that treatment integrity increased by doing this.
+[a]Following a one hour performance feedback session every other week.  Social validity ratings provided favorable feedback for the frequent supervisions.
+  
+[/qdeck]
+
+
+

@@ -1,0 +1,14 @@
+[qdeck]
+
+FK-07
+
+SAFMED = Say All Fast, Minute Each Day
+[start]
+
+[!]FK-07[/!]
+
+[q]Define mentalism. (Cooper, Heron, Heward, 2007, p. 699)
+
+[a] “An approach to explaining behavior that assumes that a mental, or ‘inner,’ dimension exists that differs from a behavioral dimension and that phenomena in this dimension either directly cause or at least mediate some forms of behavior, if not all” (Cooper, Heron, Heward, 2007, p. 699).
+
+[/qdeck]

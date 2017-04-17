@@ -1,0 +1,11 @@
+[qdeck]
+
+D-07 Conduct Task Analyses
+
+[start]
+
+[q]Define task analysis
+[a]Task analysis - “The process of breaking a complex skill into smaller, teachable units, or the product of which is a series of sequentially ordered steps or tasks” (Cooper, Heron, & Heward, 2007, p. 706).
+
+
+[/qdeck]

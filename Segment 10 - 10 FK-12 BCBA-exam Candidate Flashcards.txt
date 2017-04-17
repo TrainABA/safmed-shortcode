@@ -1,0 +1,20 @@
+[qdeck]
+
+FK-12 Stimulus Equivalence
+
+[start]
+
+[q]Define stimulus equivalence
+[a]Stimulus equivalence - “The emergence of accurate responding to untrained and nonreinforced stimulus-stimulus relations following the reinforcement of responses to some stimulus-stimulus relations. A positive demonstration of reflexivity, symmetry and transitivity is necessary to meet the definition of equivalence” (Cooper, Heron & Heward, 2007, p. 705)”. 
+
+[q]Define reflexivity
+[a]Reflexivity - “A type of stimulus-to-stimulus relation in which the student, without any prior training or reinforcement for doing so, selects a comparison stimulus that is the same as the same stimulus” (Cooper, Heron & Heward, 2007, p. 702).
+
+[q]Define symmetry
+[a]Symmetry - “A type of stimulus-to-stimulus relationship in which the learner, without prior training or reinforcement for doing so, demonstrates the reversibility of matched sample and comparison stimuli” (Cooper, Heron & Heward, 2007, p. 705).
+
+[q]Define transitivity
+[a]Transitivity - “A derived stimulus-stimulus relation that emerges as a product of training two other stimulus-stimulus relations” (Cooper, Heron & Heward, 2007, p. 706).
+
+
+[/qdeck]

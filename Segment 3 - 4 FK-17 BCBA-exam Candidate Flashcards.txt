@@ -1,0 +1,9 @@
+[qdeck]
+
+FK-17 Unconditioned reinforcement
+
+[start][q]Define unconditioned reinforcer
+[a]Unconditioned reinforcer - “A stimulus change that increases the frequency of any behavior that immediately precedes it irrespective of the organism’s learning history with the stimulus. Unconditioned reinforcers are the product of the evolutionary development of the species (phylogeny) Also called primary or unlearned reinforcer” (Cooper, Heron, & Heward, 2007 p.707).
+
+[/qdeck]
+

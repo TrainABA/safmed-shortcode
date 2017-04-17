@@ -1,0 +1,8 @@
+[qdeck]
+
+
+B-11 Conduct a parametric analysis to determine the effective values of an independent variable[start][q]Define parametric analyst
+[a]Parametric analysis - “An experiment designed to compare the differential effects of a range of values of the independent variable” (Cooper, Heron, & Heward, 2007, p. 701).
+
+
+[/qdeck]

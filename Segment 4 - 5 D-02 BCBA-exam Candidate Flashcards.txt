@@ -1,0 +1,9 @@
+[qdeck]
+
+D-02 Use appropriate parameters and schedules of reinforcement[start]
+[q]Define schedule of reinforcement
+[a]Schedule of reinforcement - “A rule specifying the environmental arrangements and response requirements for reinforcement; a description of a contingency of reinforcement” (Cooper, Heron & Heward, 2007, p. 703).  
+[/qdeck]
+
+
+

@@ -1,0 +1,15 @@
+[qdeck]
+
+H-04 Evaluate changes in level, trend and variability
+
+[start]
+
+[q]Define level
+[a]Level - “The value on the vertical axis scale around which a set of behavioral measures converge is called level (Cooper, Heron & Heward, 2007, pp. 150-151). 
+
+[q]Define trend
+[a]Trend - “The overall direction taken by a data path is its trend” (Cooper, Heron & Heward, 2007, p. 151).
+
+[q]Define variability
+[a]Variability - “How often and the extent to which multiple measures of behavior yield different outcomes is called variability” (Cooper, Heron & Heward, 2007, p. 150).
+[/qdeck]

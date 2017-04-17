@@ -1,0 +1,6 @@
+[qdeck]
+FK-15 Operant Conditioning[start]
+
+[q]Define operant conditioning
+[a]Operant Conditioning - “The basic process by which operant learning occurs; consequences (stimulus changes immediately following responses) result in an increased (reinforcement) or decreased (punishment) frequency of the same type of behavior under similar motivational and environmental conditions in the future” (Cooper, Heron & Heward, 2007, pp. 700-701).[/qdeck]
+

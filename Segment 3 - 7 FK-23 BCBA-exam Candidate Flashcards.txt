@@ -1,0 +1,8 @@
+[qdeck]
+
+FK-23 Automatic reinforcement and punishment
+[start][q]Define automatic reinforcement
+[a]Automatic reinforcement - "Reinforcement that occurs independent of the social mediation of others" (Cooper Heron, & Heward, 2007, p. 267).[q]Define automatic punishment
+[a]Automatic punishment - "Punishment that occurs independent of the social mediation by others”(Cooper Heron, & Heward, 2007, p. 534).[/qdeck]
+
+

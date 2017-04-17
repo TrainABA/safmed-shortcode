@@ -1,0 +1,11 @@
+[qdeck]
+
+FK-01 Lawfulness of behavior
+
+[start]
+
+
+[q] Define lawfulness of behavior (Malott, 2012, p. 168)
+
+[a] Answer: Lawfulness of behavior – “behavior is the result of some condition that has caused it to happen” (Malott, 2012, p. 168)[q] Define lawfulness of behavior (Skinner, 1953, p.13)[a] The lawfulness of behavior makes a science of behavior possible. “Science is, of course, more than a set of attitudes. It is a search for order, for uniformities, for lawful relations among the events in nature” (Skinner, 1953, p.13).
+[/qdeck]

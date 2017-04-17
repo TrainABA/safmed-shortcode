@@ -1,0 +1,7 @@
+[qdeck]
+
+FK-04 Empiricism[start]
+[q]Define empiricism (Cooper et al., 2007, p. 5).
+[a]“The practice of objective observation of the phenomena of interest” (Cooper et al., 2007, p. 5).[q]Define empiricism (Fisher, 2011).[a]According to Fisher (2011), scientists make observations about the world by using information available to the senses. Sensory evidence is the primary source of information and should maintain the attitude of empiricism by believing what they observe the world to be and not what they have been taught that it should be.
+
+[/qdeck] 

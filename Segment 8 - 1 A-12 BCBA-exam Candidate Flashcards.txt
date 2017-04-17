@@ -1,0 +1,11 @@
+[qdeck]
+
+
+A-12 Design and implement continuous measurement procedures (e.g., event recording)
+[start]
+
+[q]Define event recording
+[a]Event recording – “measurement procedure for obtaining a tally or count of the number of times a behavior occurs” (Cooper, Heron, & Heward, 2007, p. 695).
+
+
+[/qdeck]

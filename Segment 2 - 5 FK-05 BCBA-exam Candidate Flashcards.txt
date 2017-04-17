@@ -1,0 +1,7 @@
+[qdeck]
+
+FK-05 Parsimony[start]
+[q]Define parsimony (Cooper, Heron, & Heward, p. 22). 
+[a]The concept “that “simple, logical explanations must be ruled out, experimentally or conceptually, before more complex, or abstract experimentations are considered” (Cooper, Heron, & Heward, p. 22). 
+
+[/qdeck] 

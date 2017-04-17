@@ -1,0 +1,7 @@
+[qdeck]
+
+FK-35 Stimulus discrimination[start]
+
+[q]Define stimulus discrimination[a]Stimulus discrimination – “is when a response consistently occurs in the presence of a specific or controlling antecedent stimulus and not in the presence of new or related stimuli.  This is in direct contrast to stimulus generalization in which related antecedent stimuli may evoke the same response” (Cooper, Heron, & Heward, 2007, pp. 395-396).    
+
+[/qdeck]

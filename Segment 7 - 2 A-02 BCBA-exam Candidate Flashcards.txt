@@ -1,0 +1,9 @@
+[qdeck]
+
+A-02 Measure Rate
+
+[start]
+[q]Define rate
+[a]Rate - “A ratio of count per observation time; often expressed as count per standard unit of time and calculated by dividing the number of responses recorded by the number of number of standard units of time in which observations were conducted (Cooper, Heron, & Heward, 2007, p. 85).”
+
+[/qdeck]

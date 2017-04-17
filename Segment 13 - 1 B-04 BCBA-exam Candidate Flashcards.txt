@@ -1,0 +1,14 @@
+[qdeck]
+
+
+B-04 Use withdrawal/reversal designs
+
+[start]
+
+[q]Define reversal design
+[a]Reversal design - “Any experimental design in which the researcher attempts to verify the effect of the independent variable by “reversing” responding to a level obtained in a previous condition; encompasses experimental designs in which the independent variable is withdrawn (A-B-A-B) or reversed in its focus (e.g., DRI/DRA)” (Cooper, Heron, & Heward, 2007, p. 703).
+
+[q]Define withdrawal design
+[a]Withdrawal design - “A term used by some researchers as a synonym for an A-B-A-B design; also used to describe experiments in which an effective treatment is sequentially or partially withdrawn to promote the maintenance of behavior changes” (Cooper, Heron, & Heward, 2007, p. 708).
+
+[/qdeck]

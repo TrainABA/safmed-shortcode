@@ -1,0 +1,9 @@
+[qdeck]
+
+E-05 Use independent, interdependent, and dependent group contingencies
+[start][q]Define independent group contingency
+[a] “An independent group contingency is an arrangement in which a contingency is presented to all members of a group, but reinforcement is delivered only to those group members who meet the criterion outlined in the contingency.” (Cooper et al., 2007, p. 568)[q]Define interdependent group contingency
+[a]“An interdependent group contingency is one in which all members of a group must meet the criterion of the contingency (individually and as a group) before any member earns the reward.” (Cooper et al., 2007, p. 569)[q]Define dependent group contingency[a]“Under a dependent group contingency the reward for the whole group is dependent on the performance of an individual student or small group.” (Cooper et al., 2007, p. 568)[/qdeck]
+
+
+
