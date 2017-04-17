@@ -1,0 +1,11 @@
+[qdeck]
+
+FK-37 Stimulus generalization
+
+[start]
+
+[q]Define stimulus generalization
+[a]Stimulus generalization - “When an antecedent stimulus has a history of evoking a response that has been reinforced in its presence, the same type of behavior tends to be evoked by stimuli that share similar physical properties with the controlling antecedent stimulus” (Cooper, Heron, & Heward, 2007, p. 705).
+
+
+[/qdeck]

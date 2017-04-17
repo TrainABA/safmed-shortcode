@@ -1,0 +1,10 @@
+[qdeck]
+
+FK 44 Mands
+
+[start]
+
+[q]Define mand
+[a]Mand - “An elementary verbal operant that is evoked by an MO and followed by specific reinforcement” (Cooper, Heron, & Heward, 2007, p. 699).
+
+[/qdeck]

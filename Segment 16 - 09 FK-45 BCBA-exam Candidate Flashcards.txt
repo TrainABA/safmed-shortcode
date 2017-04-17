@@ -1,0 +1,11 @@
+[qdeck]
+
+FK-45 Tacts
+
+[start]
+
+[q]Define tact
+[a]Tact – “An elementary verbal operant evoked by a nonverbal discriminative stimulus and followed by generalized conditioned reinforcement (Cooper, Heron, & Heward, 2007, p. 705).”
+
+
+[/qdeck]

@@ -1,0 +1,15 @@
+[qdeck]
+
+I-07 Design and conduct preference assessments to identify putative reinforcers.
+
+[start]
+ 
+[q]Define stimulus preference assessment 
+[a]Stimulus preference assessment-“a variety of procedures used to determine (a) the stimuli that the person prefers, (b) the relative preference values of those stimuli, (c) the conditions under which those preference values change when task demands, deprivation states, or schedules of reinforcement are modified.”  (Cooper, Heron, & Heward, 2007, pp. 275-276)
+
+
+[q]Definition Advantages of using preference assessments 
+[a]Preference assessments allow for one to evaluate a large number of stimuli in a brief period of time (Hagopian, Long, & Rush, 2004). These stimuli are likely to function as reinforcers for a client/participant. Preference assessments also take into account care provider options (Green et al. 1988).   
+
+
+[/qdeck]

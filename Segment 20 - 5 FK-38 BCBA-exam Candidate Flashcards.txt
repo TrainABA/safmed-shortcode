@@ -1,0 +1,12 @@
+[qdeck]
+
+FK-38 Behavioral contrast[start]
+
+[q]Define behavioral contrast
+[a]Behavioral contrast - “The  phenomenon in which a change in one component of a multiple schedule that increases or decreases the rate of responding on that component is accompanied by a change in the response rate in the opposite direction on the other, unaltered component of the schedule; behavior punished in one situation may increase in other situations where it's not punished…..
+
+[q]State how to minimize or prevent behavioral contrast effects of punishment
+[a]Contrast effects of punishment can be minimized, or prevented altogether, by consistently punishing occurrences of the target behavior in all relevant settings and stimulus conditions, withholding or at least minimizing the person’s access to reinforcement for the target behavior, and providing alternative desirable behaviors” (Cooper, Heron, & Heward, 2007, p. 337)
+
+
+[/qdeck]

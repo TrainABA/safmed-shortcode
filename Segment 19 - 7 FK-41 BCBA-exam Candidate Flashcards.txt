@@ -1,0 +1,9 @@
+[qdeck]
+
+FK-41 Contingency-shaped behavior
+
+[start]
+
+[q]Define contingency shaped behavior
+[a]Contingency shaped behavior – Behavior that is “selected and maintained by controlled, temporally close consequences” (Cooper, Heron, & Heward, 2007, p. 42).  These consequences may either be reinforcing or punishing.  
+[/qdeck]

@@ -1,0 +1,9 @@
+[qdeck]
+
+FK-43 Echoics
+[start]
+
+[q]Define echoic
+[a]Echoic - “An elementary verbal operant involving a response that is evoked by a verbal discriminative stimulus that has point-to-point correspondence and formal similarity with the response” (Cooper, Heron, & Heward, 2007, p. 694).  
+
+[/qdeck]

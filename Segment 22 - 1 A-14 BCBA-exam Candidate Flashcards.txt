@@ -1,0 +1,23 @@
+[qdeck]
+
+
+A-14 Design and implement choice measures
+[start]
+
+[q]stimulus preference assessment
+[a]Stimulus preference assessment – “a variety of procedures used to determine the stimuli that a person prefers, the relative preference values (high versus low) of those stimuli, the conditions under which those preference values remain in effect, and their presumed value as reinforcers” (Cooper, Heron, & Heward, 2007, p. 705).
+
+[q]Single-stimulus preference assessment
+[a]Single-stimulus preference assessment – also called a “successive choice” method. A stimulus is presented one at a time. Approaches to the items are recorded. Preference is based on whether or not individual approached item. (Pace, Ivancic, Edwards, Iwata, & Page, 1985)
+
+[q]Paired choice preference assessment
+[a]Paired choice preference assessment –also called a “forced choice” method. Consists of the simultaneous presentation of two stimuli. The observer records which of the two stimuli the learner chooses. Presentations continue until all stimuli are paired with each other stimulus. A hierarchy can then be formed using the choices. (Fisher, Piazza, Bowman, Hagopian, Owens, & Slevin, 1992).[q]Multiple stimulus assessment
+[a]Multiple stimulus assessment – an extension of the paired-stimulus procedure developed by Fisher and colleagues (1992). The person chooses a preferred stimulus from an array of three or more stimuli. (Cooper, Heron, & Heward, 2007)[q]Multiple stimulus without replacement assessment
+[a]Multiple stimulus without replacement assessment – an extension of the procedures described by Windsor and colleagues (1994). Once an item was selected, DeLeon and Iwata (1996) did not replace previously chosen stimuli. Each choice was among the remaining stimuli. [q]Free-operant assessment
+[a]Free-operant assessment – Developed by Roane and colleagues (1998), participants had free and continuous access to the entire array of stimuli for 5 minutes. Duration of item manipulation is recorded. [q]Response restriction assessment
+[a]Response restriction assessment– Developed by Hanley and colleagues (2003), a free operant arrangement was used to measure preference. Stimuli with high interaction relative to the other stimuli during a session were restricted for the remaining sessions.[q]Duration assessment
+[a]Duration assessment – Developed by Hagopian and colleagues (2001), items were presented one at a time. Duration of engagement was measured for each item.[q]Concurrent-chain assessment
+[a]Concurrent-chain assessment (Concurrent-chain schedules) – “concurrent schedules in which the reinforcers are themselves schedules that operate separately and in the presence of different stimuli” (Catania, 2013, p. 433). Completion of the initial link schedule of reinforcement gives access to the terminal link schedule of reinforcement. Preference for particular schedules of reinforcement, or other environmental arrangements can be measured by responding in the initial links (Hanley, Iwata, & Lindberg, 1999). 
+
+
+[/qdeck]

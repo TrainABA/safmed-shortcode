@@ -1,0 +1,10 @@
+[qdeck]
+
+FK-46 Intraverbals
+
+[start]
+
+[q]Define intraverbal
+[a]Intraverbal – “An elementary verbal operant that is evoked by a verbal discriminative stimulus and that does not have point-to-point correspondence with that verbal stimulus” (Cooper, Heron & Heward, 2007, p. 698).
+
+[/qdeck]

@@ -1,0 +1,10 @@
+[qdeck]
+
+FK-39 behavioral momentum
+[start]
+
+[q]Define behavioral momentum
+[a]Behavioral momentum is defined as “a metaphor to describe a rate of responding and its resistance to change following an alteration in reinforcement conditions” (Cooper, Heron, & Heward, 2007).
+
+
+[/qdeck]

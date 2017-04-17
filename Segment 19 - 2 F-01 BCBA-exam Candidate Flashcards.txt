@@ -1,0 +1,10 @@
+[qdeck]
+
+F-01 USE SELF-MANAGEMENT STRATEGIES.
+
+[start]
+[q]Define self-management
+[a]Self-management - “…behavior that a person emits to influence another behavior” (Cooper, Heron, & Heward, 2007, p. 577).
+
+
+[/qdeck]

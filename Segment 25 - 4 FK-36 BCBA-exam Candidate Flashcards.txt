@@ -1,0 +1,10 @@
+[qdeck]
+
+FK-36 Response Generalization
+
+[start]
+[q]Define response generalization
+[a]Response generalization - “The extent to which a learner emits untrained responses that are functionally equivalent to the trained target behavior” (Cooper, Heron, & Heward, 2007, p. 620).
+
+
+[/qdeck]

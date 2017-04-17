@@ -1,0 +1,15 @@
+[qdeck]
+
+FK-02 Selectionism (phylogenic, ontogenic, cultural)
+
+[start]
+
+
+[q]Define selectionism (Skinner, 1958).
+[a]“Human behavior is the joint product of (i) the contingencies of survival responsible for the natural selection of the specific and (ii) the contingencies of reinforcement responsible for the repertoires acquired by its members, including (iii) the special contingencies maintained by the social environment.” (p. 502).  
+
+[q] Define selectionism (Cooper, Heron, & Heward, 2007).
+[a] Variation in behavior is required for selection by consequences, meaning the most adaptive behavioral repertoire persists because it serves a valuable function for the organism (Cooper, Heron, & Heward, 2007). Maladaptive, unhealthy, and harmful behavior can persist because it serves a function for the individual (e.g., substance abuse, non-suicidal self-harm, etc.)
+
+
+[/qdeck]

@@ -1,0 +1,28 @@
+Intentionally omitted
+
+
+[qdeck]
+
+Welcome to this set of flashcards. It is for BCBA-exam Candidates using the 4th Edition Task List. Here’s how it works:
+
+Click ‘Check answer’ to see the answer to each card.
+If you don’t know it as well as you’d like to, click ‘Need more practice,’ and that card will go to the bottom of the stack so you can practice it again.
+If you know it, click ‘Got it.’
+‘Shuffle’ lets you shuffle the deck.
+[start]
+[!][/!]
+
+[q] Who was the Austrian monk who discovered many of the principles of modern genetics?
+[textentry]
+
+[a] The correct response is “Mendel.”
+
+[q] Define “gene”
+
+[a] The unit of heredity.
+
+[q] Define “heredity.”
+
+[a] The passing of traits from parent to offspring.
+
+[/qdeck]

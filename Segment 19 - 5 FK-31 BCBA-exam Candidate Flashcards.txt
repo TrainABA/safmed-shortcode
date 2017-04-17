@@ -1,0 +1,14 @@
+[qdeck]
+
+FK-31 Behavioral contingencies
+
+[start]
+
+[q]Define behavioral contingencies (Moxley, 2004, p. 111)
+[a]“The AB because of C formulation is a general statement that the relation between an event (B) and its context (A) is because of consequences (C)….Applied to Skinner’s three-term contingency, the relation between (A) the setting and (B) behavior exists because of (C) consequences that occurred for previous AB (setting-behavior) relations. The idea [is] that reinforcement strengthens the setting-behavior relation rather than simply strengthening behavior” (Moxley, 2004, p. 111).
+
+[q]Define behavioral contingencies (Cooper, Heron, & Heward, 2007, pp. 41-42)
+[a]“The three term contingency- antecedent, behavior, and consequence- is sometimes called the ABC’s of behavior analysis…The term contingency has several meanings signifying various types of temporal and functional relations between behavior and antecedent and consequent variables…When a reinforcer (or punisher) is said to be contingent on a particular behavior, the behavior must be emitted for the consequence to occur” (Cooper, Heron, & Heward, 2007, pp. 41-42).
+
+
+[/qdeck]

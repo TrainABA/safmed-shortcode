@@ -1,0 +1,11 @@
+[qdeck]
+
+FK-40 Matching law
+
+[start]
+
+[q]Define matching law
+[a]Matching law - “a quantitative formulation stating that the relative rates of different responses tend to equal the relative reinforcement rates they produce” (Catania, 2007, p. 449).
+
+
+[/qdeck]
